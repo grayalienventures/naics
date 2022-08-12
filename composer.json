@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Grayalienventures\\Naics\\": "src/"
-        }
+        },
+        "files": [
+            "src/NAICS.php"
+        ]
     },
     "authors": [
         {
