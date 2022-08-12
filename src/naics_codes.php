@@ -1,5 +1,7 @@
 <?php
 
+namespace Grayalienventures\Naics;
+
 $naics_codes = array(
 	"11" => "Agriculture, Forestry, Fishing and Hunting",
 	"111" => "Crop Production",
