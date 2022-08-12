@@ -1,6 +1,6 @@
 <?php
 
-namespace grayalienventures\naics;
+namespace Grayalienventures\Naics;
 
 class NAICS {
     public function verbose_label($code) {
@@ -8,6 +8,3 @@ class NAICS {
         return $naics_codes[$code];
     }
 };
-
-$n = new NAICS();
-echo $n->verbose_label('62111');
