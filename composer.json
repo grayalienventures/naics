@@ -1,0 +1,19 @@
+{
+    "name": "grayalienventures/naics",
+    "description": "NAICS code utility tools",
+    "type": "library",
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "grayalienventures\\naics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gray Alien Ventures",
+            "email": "info@intp.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
