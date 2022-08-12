@@ -8,7 +8,7 @@
             "Grayalienventures\\Naics\\": "src/"
         },
         "files": [
-            "src/Naics/NAICS.php"
+            "src/NAICS.php"
         ]
     },
     "authors": [
