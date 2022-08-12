@@ -12,7 +12,7 @@ Get industry by NAICS code.
 ```php
 <?php
 
-use GrayAlienVentures\Naics;
+use Grayalienventures\Naics;
 
 $industry = new NAICS();
 echo $industry->verbose_label('62111');
