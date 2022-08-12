@@ -5,7 +5,7 @@
     "license": "mit",
     "autoload": {
         "psr-4": {
-            "Grayalienventures\\Naics\\": "src/"
+            "Grayalienventures\\": "src/"
         },
         "files": [
             "src/NAICS.php"

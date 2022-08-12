@@ -1,6 +1,6 @@
 <?php
 
-namespace Grayalienventures\Naics;
+namespace Grayalienventures;
 
 $naics_codes = array(
 	"11" => "Agriculture, Forestry, Fishing and Hunting",
